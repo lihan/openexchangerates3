@@ -1,14 +1,14 @@
 from setuptools import setup
 
 setup(
-    name='openexchangerates',
+    name='openexchangerates3',
     version='0.1.1',
-    description='openexchangerates.org python API client',
+    description='openexchangerates.org Python3 API client',
     long_description=open('README.rst').read(),
-    url='https://github.com/metglobal/openexchangerates',
+    url='https://github.com/lihan/openexchangerates3',
     license='MIT',
-    author='Metglobal',
-    author_email='kadir.pekel@metglobal.com',
+    author='Lihan Li',
+    author_email='llihan673@gmail.com',
     packages=['openexchangerates'],
     install_requires=[
         'requests',
@@ -24,7 +24,7 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
         'Programming Language :: Python',
-        'Programming Language :: Python :: 2.7',
+        'Programming Language :: Python :: 3.5',
         'Topic :: Internet :: WWW/HTTP',
     ],
 )
