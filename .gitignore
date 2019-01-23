@@ -10,3 +10,6 @@ coverage
 .DS_Store
 .vagrant
 manifests/build
+.idea/
+build/
+dist/
