@@ -1,9 +1,10 @@
-=================
-openexchangerates
-=================
+==================
+openexchangerates3
+==================
 
-This is a simple python client implementation of https://openexchangerates.org
+This is a simple __python3__ client implementation of https://openexchangerates.org
 web services.
+
 
 Install
 -------
@@ -11,7 +12,11 @@ Install
 openexchangerates is avaiable on pypi repositories. Just simply install
 by using ``easy_install`` or ``pip``::
 
-    $ pip install openexchangerates
+    # Remove the old one if installed
+    $ pip uninstall openexchangerates
+
+    # Install the Python3 version
+    $ pip install openexchangerates3
 
 Usage
 -----
