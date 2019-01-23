@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.rst
+requirements.txt
+runtests.sh
+setup.cfg
+setup.py
+openexchangerates/__init__.py
+openexchangerates/tests.py
+openexchangerates3.egg-info/PKG-INFO
+openexchangerates3.egg-info/SOURCES.txt
+openexchangerates3.egg-info/dependency_links.txt
+openexchangerates3.egg-info/requires.txt
+openexchangerates3.egg-info/top_level.txt
